@@ -8,19 +8,6 @@
 
 
 
-###
-
-## About Me
-- **Software Engineering student** with hands-on experience in:
-   - 🌟 React.js, Vite.js, JavaScript, Next.js, Php and Tailwind CSS
-   - 🖌️ Front-End Development with Vanilla CSS
-   - 🔄 Version Control using Git and GitHub
-   - 📊 Database Management with phpMyAdmin, Supabase and Laragon
-
-## 🌱 Currently Learning
-- Advanced React  
-- Basics of Express.js 
-- Front-End Development best practices  
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andiniekalisnawatililis2/0">
