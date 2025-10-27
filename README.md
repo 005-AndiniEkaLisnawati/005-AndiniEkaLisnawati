@@ -8,6 +8,12 @@
 
 
 
+###
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=005-AndiniEkaLisnawati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=005-AndiniEkaLisnawati&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andiniekalisnawatililis2/0">
@@ -29,18 +35,8 @@
 
 ###
 
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=005-AndiniEkaLisnawati&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 
-###
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=005-AndiniEkaLisnawati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=005-AndiniEkaLisnawati&layout=compact&langs_count=8&theme=algolia"/>
-</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -79,6 +75,10 @@
 <img src="https://raw.githubusercontent.com/AndiniEkaLisnawati/AndiniEkaLisnawati/output/snake.svg" alt="Snake animation" />
 
 
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=005-AndiniEkaLisnawati&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 <h3> <p align="center">🤝🏻 Connect with Me</p> </h3>
 
