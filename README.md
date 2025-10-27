@@ -28,7 +28,7 @@
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=005-AndiniEkaLisnawati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <a href="https://open.spotify.com/user/andinandin](https://open.spotify.com/user/6tdjdv2syry0rcex4u9fo184k">
+  <a href="[https://open.spotify.com/user/andinandin](https://open.spotify.com/user/6tdjdv2syry0rcex4u9fo184k](https://open.spotify.com/user/6tdjdv2syry0rcex4u9fo184k?si=713314989c3c42e7)">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
