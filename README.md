@@ -37,6 +37,11 @@
 
 ###
 
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=005-AndiniEkaLisnawati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=005-AndiniEkaLisnawati&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
