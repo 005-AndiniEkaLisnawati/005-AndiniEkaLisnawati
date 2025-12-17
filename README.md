@@ -75,7 +75,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=005-AndiniEkaLisnawati&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 </div>
 
 <h3> <p align="center">🤝🏻 Connect with Me</p> </h3>
